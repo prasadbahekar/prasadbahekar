@@ -9,5 +9,5 @@
  &nbsp;
 
 ## My Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/67a8b2f8f86334348206031d?variant=dark)](https://roadmap.sh)  
-[Check Complete Progress Report](https://roadmap.sh/u/prasadb)
+[![roadmap.sh](https://roadmap.sh/card/tall/67a8b2f8f86334348206031d?variant=dark)](https://roadmap.sh)
+[Check **Latest** Complete Progress Report](https://roadmap.sh/u/prasadb)
