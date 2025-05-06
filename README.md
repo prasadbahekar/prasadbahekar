@@ -1,7 +1,7 @@
 ## I am A Coder!
 
-- 🔭 I’m currently working on **Completing Flutter Roadmap**
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🔭 I’m currently working on **Making a Flutter App**
+- 🌱 I’m currently learning **Backend in Flutter**
 - 📫 How to reach me: **prasadbahekar108@gmail.com**
 - 🎥 My YouTube channel: [**Continue Coding**](https://youtube.com/@continuecoding)
 - ⚡ Fun fact: I have been Coding since I was 8!  
